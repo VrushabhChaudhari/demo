@@ -3,4 +3,5 @@ ls -- gives list of files present in current folder
 ls --a -- hiden files
 git status -- everthing upto date or not
 git add <-filename->-- modified, untracked, staged, unmodified
-git commit -m
+git commit -m -- commit changes with message(-m)
+git push origin maingit
