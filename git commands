@@ -5,9 +5,15 @@ git status -- everthing upto date or not
 git add <-filename->-- modified, untracked, staged, unmodified
 git commit -m -- commit changes with message(-m)
 git push origin main -- push to parent branch - origin(default repository) - main(origin branch)
+git push -u origin main -- set default push to main branch
 git pull -- 
+git pull origin main -- 
 git init
 git remote add origin <-https url->
 git remote -v -- (varify remote repository)
 git branch -- to check branch 
 git branch -M main -- to rename branch
+git checkout <-branch name-> 
+git checkout -b <-create new branch name->
+git branch -d <-delete branch name-> -- but first move to another branch
+git reset <-file name->
