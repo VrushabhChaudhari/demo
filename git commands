@@ -1,0 +1,6 @@
+git clone https://github.com/VrushabhChaudhari/demo.git -- https url from git
+ls -- gives list of files present in current folder
+ls --a -- hiden files
+git status -- everthing upto date or not
+git add <-filename->-- modified, untracked, staged, unmodified
+git commit -m
