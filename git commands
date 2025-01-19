@@ -4,4 +4,10 @@ ls --a -- hiden files
 git status -- everthing upto date or not
 git add <-filename->-- modified, untracked, staged, unmodified
 git commit -m -- commit changes with message(-m)
-git push origin maingit
+git push origin main -- push to parent branch - origin(default repository) - main(origin branch)
+git pull -- 
+git init
+git remote add origin <-https url->
+git remote -v -- (varify remote repository)
+git branch -- to check branch 
+git branch -M main -- to rename branch
